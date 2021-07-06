@@ -1,2 +1,2 @@
 # devDiary
-My daily diary
+Simple 'only HTML' blogging site
